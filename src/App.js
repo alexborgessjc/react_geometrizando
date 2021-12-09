@@ -1,10 +1,5 @@
 import React from 'react';
 import './App.css'
-import Square from './components/Square'
-import Circle from './components/Circle';
-import CapsLock from './components/CapsLock';
-import Rectangle from './components/Rectangle';
-import Triangle from './components/Triangle';
 import Figure from './components/Figure';
 
 function App() 
